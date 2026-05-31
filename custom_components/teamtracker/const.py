@@ -155,6 +155,38 @@ NATIVE_LEAGUES = {
         CONF_SPORT_PATH: VOLLEYBALL,
         CONF_LEAGUE_PATH: "womens-college-volleyball",
     },
+    "BILT": {
+        CONF_SPORT_PATH: RUGBY,
+        CONF_LEAGUE_PATH: "268565",
+    },
+    "ITM": {
+        CONF_SPORT_PATH: RUGBY,
+        CONF_LEAGUE_PATH: "289234",
+    },
+    "M10C": {
+        CONF_SPORT_PATH: RUGBY,
+        CONF_LEAGUE_PATH: "270563",
+    },
+    "RWC": {
+        CONF_SPORT_PATH: RUGBY,
+        CONF_LEAGUE_PATH: "164205",
+    },
+    "SIXN": {
+        CONF_SPORT_PATH: RUGBY,
+        CONF_LEAGUE_PATH: "180659",
+    },
+    "SRU": {
+        CONF_SPORT_PATH: RUGBY,
+        CONF_LEAGUE_PATH: "242041",
+    },
+    "TRC": {
+        CONF_SPORT_PATH: RUGBY,
+        CONF_LEAGUE_PATH: "244293",
+    },
+    "WRWC": {
+        CONF_SPORT_PATH: RUGBY,
+        CONF_LEAGUE_PATH: "289237",
+    },
 }
 
 SPORT_ICON_MAP = {

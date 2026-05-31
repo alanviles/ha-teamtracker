@@ -85,6 +85,18 @@ _SPORT_GROUPS: dict[str, tuple[str, dict[str, str]]] = {
         "NCAAVB": "NCAA Men's Volleyball",
         "NCAAVBW": "NCAA Women's Volleyball",
     }),
+    "rugby-nz": ("Rugby (New Zealand)", {
+        "SRU": "Super Rugby Pacific",
+        "M10C": "Mitre 10 Cup",
+    }),
+    "rugby-intl": ("Rugby (International)", {
+        "BILT": "British and Irish Lions Tour",
+        "ITM": "International Test Match",
+        "RWC": "Rugby World Cup",
+        "SIXN": "Six Nations",
+        "TRC": "The Rugby Championship",
+        "WRWC": "Women's Rugby World Cup",
+    }),
 }
 
 SPORT_OPTIONS: dict[str, str] = {

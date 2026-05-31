@@ -41,6 +41,8 @@ The following leagues are supported natively:
 - Racing - F1, IRL
 - Tennis - ATP, WTA
 - Volleyball - NCAAVB, NCAAVBW
+- Rugby (New Zealand) - SRU (Super Rugby Pacific), M10C (Mitre 10 Cup)
+- Rugby (International) - BILT (British and Irish Lions Tour), ITM (International Test Match), RWC (Rugby World Cup), SIXN (Six Nations), TRC (The Rugby Championship), WRWC (Women's Rugby World Cup)
 
 ### Sports / Leagues Supported by Configuring a Custom API
 
